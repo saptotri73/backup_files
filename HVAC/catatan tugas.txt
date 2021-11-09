@@ -1,0 +1,12 @@
+Daftar MANUAL BOOK yang akan dibuat langkah langkahnya
+
+1.Start Program Scada : cara login sebagai admin,cara start runtime, cara keluar runtime,
+2.Menyalakan AHU Secara Remote Manual, menyalakan ahu secara Local
+3.Menyalakan AHU Secara Remote Otomatis/Auto
+4.Cara setting PID---> meliputi perhitungan Output Minimum dan Maksimum
+5.Cara menambah daftar Settingan PID
+6.Cara mengatur Warna Display--> High Low, cara menambahkan ke recipe
+7.Alarm :cara mengatur batas alarm,cara mengAcknowledge, alarm history, cara eksport alarm ke pdf, cara reset alarm panel
+8.Report : cara menfilter data , cara mengeksport ke pdf
+9.Trend : cara mengubah durasi trend,
+10.Mobile Access
